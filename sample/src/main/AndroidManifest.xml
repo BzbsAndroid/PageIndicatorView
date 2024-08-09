@@ -9,6 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Base">
         <activity
+            android:exported="true"
             android:name="com.rd.pageindicatorview.home.HomeActivity"
             android:screenOrientation="sensorPortrait">
 
